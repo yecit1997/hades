@@ -95,3 +95,4 @@ class DetalleVenta(models.Model):
         verbose_name_plural = 'Detalle_ventas'
         db_table = 'detalle_venta'
         ordering = ['id']
+
